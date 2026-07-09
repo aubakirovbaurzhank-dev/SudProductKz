@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "url": "https://github.com/aubakirovbaurzhank-dev/SudProductKz/releases/download/v1.0.3/SudKZ-Setup-1.0.3.exe",
-  "notes": "Чистая установка сразу с готовыми папками и образцами всех Баз (иски/ИЛ/приказы/номера) — заполняй и работай.",
+  "version": "1.0.4",
+  "url": "https://github.com/aubakirovbaurzhank-dev/SudProductKz/releases/download/v1.0.4/SudKZ-Setup-1.0.4.exe",
+  "notes": "Бот сам присылает приветствие сразу после ввода Telegram-токена (авто-перезапуск + подхват Gemini).",
   "mandatory": false
 }
