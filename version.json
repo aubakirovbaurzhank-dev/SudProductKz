@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "url": "https://github.com/aubakirovbaurzhank-dev/SudProductKz/releases/download/v1.0.2/SudKZ-Setup-1.0.2.exe",
-  "notes": "Понятные подсказки во всех полях мастера настройки + авто-очистка адреса почты от https://.",
+  "version": "1.0.3",
+  "url": "https://github.com/aubakirovbaurzhank-dev/SudProductKz/releases/download/v1.0.3/SudKZ-Setup-1.0.3.exe",
+  "notes": "Чистая установка сразу с готовыми папками и образцами всех Баз (иски/ИЛ/приказы/номера) — заполняй и работай.",
   "mandatory": false
 }
