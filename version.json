@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/aubakirovbaurzhank-dev/SudProductKz/releases/download/v1.0.0/SudKZ-Setup-1.0.0.exe",
-  "notes": "Первая версия SudKZ.",
+  "version": "1.0.1",
+  "url": "https://github.com/aubakirovbaurzhank-dev/SudProductKz/releases/download/v1.0.1/SudKZ-Setup-1.0.1.exe",
+  "notes": "Починка загрузки ЭЦП (.p12) с кириллицей + управление сотрудниками, мелкие правки мастера.",
   "mandatory": false
 }
