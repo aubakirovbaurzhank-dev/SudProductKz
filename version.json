@@ -1,6 +1,6 @@
 {
-  "version": "1.0.11",
-  "url": "https://github.com/aubakirovbaurzhank-dev/SudProductKz/releases/download/v1.0.11/SudKZ-Setup-1.0.11.exe",
-  "notes": "ИИ-агент (Gemini) снова работает: приложение само подбирает доступную модель, если Google снял старую с выдачи новым ключам (раньше агент выключался с ошибкой 404 про gemini-2.5-flash-lite). Модель по умолчанию обновлена.",
+  "version": "1.0.12",
+  "url": "https://github.com/aubakirovbaurzhank-dev/SudProductKz/releases/download/v1.0.12/SudKZ-Setup-1.0.12.exe",
+  "notes": "Баннер обновления на главной стал чистым (без лишних символов) и ведёт в Настройки → «Запуск и логи», где происходит обновление. Всё управление ботом, логами и обновлением собрано в одном месте — в Настройках.",
   "mandatory": false
 }
