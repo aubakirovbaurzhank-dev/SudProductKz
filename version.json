@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
-  "url": "https://github.com/aubakirovbaurzhank-dev/SudProductKz/releases/download/v1.0.6/SudKZ-Setup-1.0.6.exe",
-  "notes": "ВАЖНО: починен ИИ-агент Gemini в .exe (терялась google.ai.generativelanguage при сборке -> агент молчал). Теперь собирается надёжно + гейт проверяет.",
+  "version": "1.0.7",
+  "url": "https://github.com/aubakirovbaurzhank-dev/SudProductKz/releases/download/v1.0.7/SudKZ-Setup-1.0.7.exe",
+  "notes": "Приветствие бота честно проверяет связь с Gemini и показывает точную причину, если агент не подключился.",
   "mandatory": false
 }
