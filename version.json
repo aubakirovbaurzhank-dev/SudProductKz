@@ -1,6 +1,6 @@
 {
-  "version": "1.0.14",
-  "url": "https://github.com/aubakirovbaurzhank-dev/SudProductKz/releases/download/v1.0.14/SudKZ-Setup-1.0.14.exe",
-  "notes": "Настройки перестроены логичнее: всё про бота (настройки, запуск, логи) собрано в первой вкладке Бот запуск и логи, а проверка обновления вынесена в отдельную вкладку Обновление.",
+  "version": "1.0.15",
+  "url": "https://github.com/aubakirovbaurzhank-dev/SudProductKz/releases/download/v1.0.15/SudKZ-Setup-1.0.15.exe",
+  "notes": "ИИ-агент устойчивее к ограничениям ключа Gemini: если у модели нет бесплатной квоты (ошибка limit:0), приложение само пробует другую доступную модель, а не ждёт впустую. Если бесплатной квоты нет нигде — понятное сообщение, при этом бот и подача работают.",
   "mandatory": false
 }
