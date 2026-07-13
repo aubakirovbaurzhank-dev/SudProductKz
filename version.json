@@ -1,6 +1,6 @@
 {
-  "version": "1.0.24",
-  "url": "https://github.com/aubakirovbaurzhank-dev/SudProductKz/releases/download/v1.0.24/SudKZ-Setup-1.0.24.exe",
-  "notes": "Выгрузка логов разработчику: по кнопке в Настройках и автоматически при сбоях — в ваш приватный GitHub-репозиторий, чтобы быстрее находить и устранять проблемы.",
+  "version": "1.0.25",
+  "url": "https://github.com/aubakirovbaurzhank-dev/SudProductKz/releases/download/v1.0.25/SudKZ-Setup-1.0.25.exe",
+  "notes": "Надёжность подачи: номера, потерянные при открытом Excel, сами возвращаются в трекер (без дублей); раннее предупреждение о пустом пароле ЭЦП и открытом Excel; при заблокированном экране — понятная причина вместо ложного «NCALayer завис»; ускорение и надёжность TLS.",
   "mandatory": false
 }
