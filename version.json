@@ -1,6 +1,6 @@
 {
-  "version": "1.0.21",
-  "url": "https://github.com/aubakirovbaurzhank-dev/SudProductKz/releases/download/v1.0.21/SudKZ-Setup-1.0.21.exe",
-  "notes": "Авто-подпись ЭЦП в .exe (подставляет пароль сама). Плюс: чтение номера из талона, скриншоты, версия Edge — все библиотеки форматов (Word/PDF/Excel) встроены и проверены. Список требований к ПК клиента — в docs.",
+  "version": "1.0.22",
+  "url": "https://github.com/aubakirovbaurzhank-dev/SudProductKz/releases/download/v1.0.22/SudKZ-Setup-1.0.22.exe",
+  "notes": "Подпись ЭЦП: поддержка ЕДИНОГО окна NCALayer (Формирование ЭЦП) без отдельного выбора файла — пароль вводится в него напрямую. Понятная ошибка, если пароль ЭЦП пуст (введите заново в Настройках).",
   "mandatory": false
 }
