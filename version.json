@@ -1,6 +1,6 @@
 {
-  "version": "1.0.25",
-  "url": "https://github.com/aubakirovbaurzhank-dev/SudProductKz/releases/download/v1.0.25/SudKZ-Setup-1.0.25.exe",
-  "notes": "Надёжность подачи: номера, потерянные при открытом Excel, сами возвращаются в трекер (без дублей); раннее предупреждение о пустом пароле ЭЦП и открытом Excel; при заблокированном экране — понятная причина вместо ложного «NCALayer завис»; ускорение и надёжность TLS.",
+  "version": "1.0.26",
+  "url": "https://github.com/aubakirovbaurzhank-dev/SudProductKz/releases/download/v1.0.26/SudKZ-Setup-1.0.26.exe",
+  "notes": "«Из интернета» заработало без настроек: дашборд доступен по защищённой ссылке (Cloudflare-туннель), которая приходит в Telegram при старте бота — аккаунт и токен не нужны.",
   "mandatory": false
 }
