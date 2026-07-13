@@ -1,6 +1,6 @@
 {
-  "version": "1.0.26",
-  "url": "https://github.com/aubakirovbaurzhank-dev/SudProductKz/releases/download/v1.0.26/SudKZ-Setup-1.0.26.exe",
-  "notes": "«Из интернета» заработало без настроек: дашборд доступен по защищённой ссылке (Cloudflare-туннель), которая приходит в Telegram при старте бота — аккаунт и токен не нужны.",
+  "version": "1.0.27",
+  "url": "https://github.com/aubakirovbaurzhank-dev/SudProductKz/releases/download/v1.0.27/SudKZ-Setup-1.0.27.exe",
+  "notes": "Убран спам автопилота: «пропустил иск» — это ваше решение, а не ошибка. Бот больше не перезапускает NCALayer и не плодит «конфликт правил» на каждый пропуск; старые мусорные правила чистятся автоматически.",
   "mandatory": false
 }
