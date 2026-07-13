@@ -1,6 +1,6 @@
 {
-  "version": "1.0.23",
-  "url": "https://github.com/aubakirovbaurzhank-dev/SudProductKz/releases/download/v1.0.23/SudKZ-Setup-1.0.23.exe",
-  "notes": "Подпись ЭЦП надёжнее: во время подачи экран не гаснет и ПК не спит (убирает срыв подписи 'нет активного рабочего стола'). Понятная ошибка, если имя сотрудника не совпало с Базой или пароль ЭЦП пуст.",
+  "version": "1.0.24",
+  "url": "https://github.com/aubakirovbaurzhank-dev/SudProductKz/releases/download/v1.0.24/SudKZ-Setup-1.0.24.exe",
+  "notes": "Выгрузка логов разработчику: по кнопке в Настройках и автоматически при сбоях — в ваш приватный GitHub-репозиторий, чтобы быстрее находить и устранять проблемы.",
   "mandatory": false
 }
