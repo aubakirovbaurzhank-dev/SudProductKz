@@ -1,6 +1,6 @@
 {
-  "version": "1.0.22",
-  "url": "https://github.com/aubakirovbaurzhank-dev/SudProductKz/releases/download/v1.0.22/SudKZ-Setup-1.0.22.exe",
-  "notes": "Подпись ЭЦП: поддержка ЕДИНОГО окна NCALayer (Формирование ЭЦП) без отдельного выбора файла — пароль вводится в него напрямую. Понятная ошибка, если пароль ЭЦП пуст (введите заново в Настройках).",
+  "version": "1.0.23",
+  "url": "https://github.com/aubakirovbaurzhank-dev/SudProductKz/releases/download/v1.0.23/SudKZ-Setup-1.0.23.exe",
+  "notes": "Подпись ЭЦП надёжнее: во время подачи экран не гаснет и ПК не спит (убирает срыв подписи 'нет активного рабочего стола'). Понятная ошибка, если имя сотрудника не совпало с Базой или пароль ЭЦП пуст.",
   "mandatory": false
 }
